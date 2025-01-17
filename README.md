@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnowyCrest
+- 👋 Hi, I’m SnowyCrest
 - 👀 I’m interested in Full-stack development, python programming, and game development
 - 🌱 I’m currently learning NextJS
 
