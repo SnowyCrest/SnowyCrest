@@ -11,9 +11,11 @@ I'm a front-end (becoming full-stack) developer aspiring to take advantage of te
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SnowyCrest?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/SnowyCrest?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SnowyCrest?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</p>
 
-## 🧰 Languages and Tools
+<hr/>
+
+### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -32,7 +34,9 @@ I'm a front-end (becoming full-stack) developer aspiring to take advantage of te
 <img align="left" alt="Codepen" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" />
 <br/>
 
-## 📊 Stats
+<hr/>
+
+### 📊 Stats
 ![Crest's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=snowycrest&show_icons=true&theme=transparent&hide_border=true)
 ![Crest's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowycrest&show_icons=true&theme=transparent&hide_border=true)
 
