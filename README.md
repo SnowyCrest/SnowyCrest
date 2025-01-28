@@ -2,7 +2,7 @@
 
 # 🧊 SnowyCrest
 
-**`Digital Craftsman & Freelancer (Developer/3D Modeler/UI Designer)`**
+**`Digital Craftsman (Developer/3D Modeler/UI Designer)`**
 
 I'm a front-end (becoming full-stack) developer aspiring to take advantage of technology for the better of the world. Most of my coding projects are built with a team of colleagues but I sometimes make some standalone projects to turn an idea that I think is cool & unique into reality.
 
