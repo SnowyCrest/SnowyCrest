@@ -35,7 +35,7 @@ I'm a front-end (becoming full-stack) developer aspiring to take advantage of te
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Framer Motion" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" />
 <img align="left" alt="Codepen" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" />
-<br />
+<br/>
 
 ### 📊 Stats
 ![Crest's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=snowycrest&show_icons=true&theme=transparent&hide_border=true)
