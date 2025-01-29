@@ -39,7 +39,7 @@ I'm a front-end (becoming full-stack) developer aspiring to take advantage of te
 
 ### 📊 Stats
 ![Crest's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=snowycrest&show_icons=true&theme=transparent&hide_border=true)
-[![Crest's GitHub Streak](https://streak-stats.demolab.com?user=SnowyCrest&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SnowyCrest&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 
 <!---
