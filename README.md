@@ -13,9 +13,7 @@ I'm a front-end (becoming full-stack) developer aspiring to take advantage of te
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SnowyCrest?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-<hr/>
-
-### 🧰 Languages and Tools
+## 💻 Tech Stack
 
 <img align="left" alt="TypeScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -33,11 +31,11 @@ I'm a front-end (becoming full-stack) developer aspiring to take advantage of te
 <img align="left" alt="Framer Motion" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" />
 <img align="left" alt="Codepen" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" />
 <img align="left" alt="VSCode" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Vercel" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+<img align="left" alt="MongoDB" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br/>
 
-<hr/>
-
-### 📊 Stats
+## 📊 Stats
 ![Crest's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=snowycrest&show_icons=true&theme=transparent&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=SnowyCrest&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
