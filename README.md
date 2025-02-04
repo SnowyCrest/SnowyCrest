@@ -34,7 +34,9 @@ I'm a front-end (becoming full-stack) developer aspiring to take advantage of te
 <img align="left" alt="VSCode" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Vercel" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
 <img align="left" alt="MongoDB" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<br/>
+<br clear = "left"/>
+
+
 
 ---
 
