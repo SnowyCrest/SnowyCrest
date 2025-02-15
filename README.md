@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6835879c-3f88-48e4-b9da-d125bbd3d9eb)
+![Frame 8](https://github.com/user-attachments/assets/79a4a33e-9cf7-47c8-abdc-5fbe67ef8462)
 
 # 🧊 SnowyCrest
 
