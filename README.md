@@ -11,6 +11,7 @@ I'm a front-end (becoming full-stack) developer aspiring to take advantage of te
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SnowyCrest?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/SnowyCrest?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SnowyCrest?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <img src="https://komarev.com/ghpvc/?username=SnowyCrest&label=Profile%20views&color=272eef&style=for-the-badge" alt="profile views" />
 </p>
 
 
